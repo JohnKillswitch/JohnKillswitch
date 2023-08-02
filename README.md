@@ -1,3 +1,3 @@
 ### Skills
 
-(https://skillicons.dev/icons?i=js,html,css,wasm)
+[![My Skills](https://skillicons.dev/icons?i=cs,ai,idea,kotlin,ps,py,spring,sqlite,unity,git,java.maven,gradle,)](https://github.com/JohnKillswitch)
